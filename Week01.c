@@ -1,8 +1,3 @@
-/* Step 8: After i typed a value for fahrenheit, the window quickly closed.
-   Step 9: After i typed a value, the program was able to convert it to celsius.  
-   Step 10: When i compile and run the program on Dev , it took a bit longer for the window to show. Compare to the application it was faster.
-*/
-
 /*This program prompts the user for a temperature in Fahrenheit and displays the results to the screen. 
 
 This program prompts the user for a temperature in Fahrenheit, converts the temperature to Celsius, and displays the result to the screen.
